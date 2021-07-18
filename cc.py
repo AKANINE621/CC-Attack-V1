@@ -17,24 +17,16 @@ import datetime
 
 
 print ('''
-	   /////    /////    /////////////
-	  CCCCC/   CCCCC/   | CC-attack |/
-	 CC/      CC/       |-----------|/ 
-	 CC/      CC/       |  Layer 7  |/ 
-	 CC/////  CC/////   | ddos tool |/ 
-	  CCCCC/   CCCCC/   |___________|/
+         DDos By AKANINE
 >--------------------------------------------->
-Version 3.6 (2020/12/19)
-							C0d3d by L330n123
+Version Crack (2020/7/21)
+							C0d3d by AKANINE
 ┌─────────────────────────────────────────────┐
 │        Tos: Don't attack .gov website       │
 ├─────────────────────────────────────────────┤
-│                 New stuff:                  │
-│          [+] Optimization                   │
-│          [+] Changed Output                 │
-│          [+] Added Url Parser               │
+│         CC-Attack  Crack By AKANINE         │
 ├─────────────────────────────────────────────┤
-│ Link: https://github.com/Leeon123/CC-attack │
+│  https://github.com/AKANINE621/CC-Attack-V1 ?
 └─────────────────────────────────────────────┘''')
 
 acceptall = [
